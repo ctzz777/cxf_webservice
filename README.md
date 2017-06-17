@@ -1,4 +1,5 @@
 # CXF Restful + Spring dependencies: 
+```xml
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-web</artifactId>
@@ -19,6 +20,7 @@
 			<artifactId>cxf-rt-ws-policy</artifactId>
 			<version>${cxf.version}</version>
 		</dependency>
+```
 
 # CXF WADL dependencies: 
 		<dependency>
