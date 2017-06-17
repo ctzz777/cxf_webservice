@@ -27,7 +27,7 @@
 			<version>${cxf.version}</version>
 		</dependency>
     
-# CXF json Response use jettison as default dependencies:
+# CXF Json Response use jettison as default dependencies:
 		<dependency>
 			<groupId>org.apache.cxf</groupId>
 			<artifactId>cxf-rt-rs-extension-providers</artifactId>
