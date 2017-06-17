@@ -1,4 +1,4 @@
-1. CXF Restful + Spring dependencies: 
+# CXF Restful + Spring dependencies: 
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-web</artifactId>
@@ -20,14 +20,14 @@
 			<version>${cxf.version}</version>
 		</dependency>
 
-2. CXF WADL dependencies: 
+# CXF WADL dependencies: 
 		<dependency>
 			<groupId>org.apache.cxf</groupId>
 			<artifactId>cxf-rt-rs-service-description</artifactId>
 			<version>${cxf.version}</version>
 		</dependency>
     
-3. CXF json Response use jettison as default dependencies:
+# CXF json Response use jettison as default dependencies:
 		<dependency>
 			<groupId>org.apache.cxf</groupId>
 			<artifactId>cxf-rt-rs-extension-providers</artifactId>
